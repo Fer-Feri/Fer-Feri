@@ -1,4 +1,3 @@
-
 ```javascript
 const data = async (api) => {
     try {
@@ -17,4 +16,10 @@ const data = async (api) => {
 ```
 ![HTML](https://img.shields.io/badge/HTML-orange) ![HTML](https://img.shields.io/badge/CSS-blue) ![HTML](https://img.shields.io/badge/JS-gold) ![HTML](https://img.shields.io/badge/Tailwind-blueviolet)
 
+---
 
+<img src="https://github-readme-stats.vercel.app/api?username=fer-feri&show_icons=true&theme=gruvbox"></img>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fer-feri&layout=compact"></img>
+
+### I LOVE YOU 💌
