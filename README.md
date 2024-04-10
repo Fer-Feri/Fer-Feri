@@ -1,4 +1,3 @@
-https://img.shields.io/badge/farshad-blue
 
 ```javascript
 const data = async (api) => {
@@ -16,3 +15,6 @@ const data = async (api) => {
     }
 }
 ```
+![HTML](https://img.shields.io/badge/HTML-orange) ![HTML](https://img.shields.io/badge/CSS-blue) ![HTML](https://img.shields.io/badge/JS-gold) ![HTML](https://img.shields.io/badge/Tailwind-blueviolet)
+
+
