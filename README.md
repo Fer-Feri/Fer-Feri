@@ -1,3 +1,5 @@
+https://img.shields.io/badge/farshad-blue
+
 ```javascript
 const data = async (api) => {
     try {
