@@ -32,5 +32,19 @@ const data = async (api) => {
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fer-feri&layout=compact">
 
+---
+<h3>📞 &nbsp; Contact Me </h3>
+
+<p>
+  <a href="https://instagram.com/far._.shad_/">
+    <img src="https://img.shields.io/badge/Instagram-@far._.shad_-red?style=flat&logo=instagram" />
+  </a>
+  <a href="https://t.me/Witcher33/">
+    <img src="https://img.shields.io/badge/Telegram-@Witcher33-blue?style=flat&logo=telegram" />
+  </a>
+</p>
+
+<br>
+
 ### I LOVE YOU 💌
 <img width="150px" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
