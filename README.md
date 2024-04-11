@@ -1,3 +1,4 @@
+
 ```javascript
 const data = async (api) => {
     try {
@@ -17,9 +18,19 @@ const data = async (api) => {
 ![HTML](https://img.shields.io/badge/HTML-orange) ![HTML](https://img.shields.io/badge/CSS-blue) ![HTML](https://img.shields.io/badge/JS-gold) ![HTML](https://img.shields.io/badge/Tailwind-blueviolet)
 
 ---
+## my path 🗺
 
-<img src="https://github-readme-stats.vercel.app/api?username=fer-feri&show_icons=true&theme=gruvbox"></img>
+#### Past ➡ Now
+<img width="30px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-html5-96.png"> <img width="30px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-css3-96.png"> <img width="30px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-js-96.png">  <img width="30px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-tailwind-css-96.png"> <img width="30px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-git-96.png">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fer-feri&layout=compact"></img>
+#### Now ➡ Future
+<img width="36px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-react-js-80.png"> <img width="36px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-node-js-96.png"> <img width="36px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-typescript-96.png"> <img width="36px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-nuxt-js-96.png"> <img width="36px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-bootstrap-96.png">
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=fer-feri&show_icons=true&theme=gruvbox">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fer-feri&layout=compact">
 
 ### I LOVE YOU 💌
+<img width="150px" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
