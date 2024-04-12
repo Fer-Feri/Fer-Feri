@@ -38,7 +38,7 @@ const farshad = {
     <img src="https://img.shields.io/badge/Telegram-@Witcher33-blue?style=flat&logo=telegram" />
   </a>
   <a href="https://fsrshad.bahari.33@gmail.com/">
-    <img src="https://img.shields.io/badge/My%20Gmail-@fsrshad.bahari.33@gmail.com-blueviolet?style=flat&logo=gmail" />
+    <img src="https://img.shields.io/badge/My%20Gmail-fsrshad.bahari.33@gmail.com-blueviolet?style=flat&logo=gmail" />
   </a>
 </p>
 
