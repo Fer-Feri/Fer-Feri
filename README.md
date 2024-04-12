@@ -1,21 +1,16 @@
 
 ```javascript
-const data = async (api) => {
-    try {
-        const myCharacter = await fetch(api)
-        
-        myCharacter.push ({
-            skills: 'html, css, js',
-            age: 30,
-            birthday: '30 April',
-            start: '19 April 2023'
-        })
-    } catch (error) {
-        alert('I am always learning')
-    }
+const farshad = {
+    🏆 skills: ['html', 'css', 'js', 'tailwind'],
+    💀 age: 30,
+    🎉 birthDay: '30 April',
+    👓 start: '19 April 2023',
+    🥋 power: 'I Am Always Learning',
+    🎈 favorite: ['Coding', 'Book', 'Game', 'Movie'],
+    🏠 location: 'Sanandaj',
 }
 ```
-![HTML](https://img.shields.io/badge/HTML-orange) ![HTML](https://img.shields.io/badge/CSS-blue) ![HTML](https://img.shields.io/badge/JS-gold) ![HTML](https://img.shields.io/badge/Tailwind-blueviolet)
+<!-- ![HTML](https://img.shields.io/badge/HTML-orange) ![HTML](https://img.shields.io/badge/CSS-blue) ![HTML](https://img.shields.io/badge/JS-gold) ![HTML](https://img.shields.io/badge/Tailwind-blueviolet) -->
 
 ---
 ## my path 🗺
@@ -42,9 +37,12 @@ const data = async (api) => {
   <a href="https://t.me/Witcher33/">
     <img src="https://img.shields.io/badge/Telegram-@Witcher33-blue?style=flat&logo=telegram" />
   </a>
+  <a href="https://fsrshad.bahari.33@gmail.com/">
+    <img src="https://img.shields.io/badge/My%20Gmail-@fsrshad.bahari.33@gmail.com-blueviolet?style=flat&logo=gmail" />
+  </a>
 </p>
 
 <br>
 
 ### I LOVE YOU 💌
-<img width="150px" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+<!--<img width="150px" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
