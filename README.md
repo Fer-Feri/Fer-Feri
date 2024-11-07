@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/2673bdc9-7126-4fc0-99f9-677d29e286ae)
 ```javascript
 const farshad = {
     🏆 skills: ['html', 'css', 'js', 'tailwind'],
@@ -16,10 +16,10 @@ const farshad = {
 ## my path 🗺
 
 #### Past ➡ Now
-<img width="30px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-html5-96.png"> <img width="30px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-css3-96.png"> <img width="30px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-js-96.png">  <img width="30px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-tailwind-css-96.png"> <img width="30px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-git-96.png">
+<img width="30px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-html5-96.png"> <img width="30px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-css3-96.png"> <img width="30px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-js-96.png">  <img width="30px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-tailwind-css-96.png"> <img width="30px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-git-96.png"> <img width="36px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-react-js-80.png"> <img width="36px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-sass-avatar-96.png">
 
 #### Now ➡ Future
-<img width="36px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-react-js-80.png"> <img width="36px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-node-js-96.png"> <img width="36px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-typescript-96.png"> <img width="36px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-nuxt-js-96.png"> <img width="36px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-bootstrap-96.png">
+ <img width="36px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-node-js-96.png"> <img width="36px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-typescript-96.png"> <img width="36px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-nuxt-js-96.png"> <img width="36px" src="https://github.com/Fer-Feri/Fer-Feri/blob/main/icons8-bootstrap-96.png">
 
 ---
 
