@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/2673bdc9-7126-4fc0-99f9-677d29e286ae)
 ```javascript
 const farshad = {
     🏆 skills: ['html', 'css', 'js', 'tailwind'],
