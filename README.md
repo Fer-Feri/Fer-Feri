@@ -1,6 +1,6 @@
 ```javascript
 const farshad = {
-    🏆 skills: ['html', 'css', 'js', 'tailwind'],
+    🏆 skills: ['html', 'css', 'js', 'tailwind','React', 'next.js', 'three.js'],
     💀 age: 30,
     🎉 birthDay: '30 April',
     👓 start: '19 April 2023',
